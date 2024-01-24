@@ -1,9 +1,9 @@
 <!-- Heading -->
-<h1> Nice to meet you!</h1>
+<h1> Nice to meet you! :wave: </h1>
 
 <p></br> Welcome! I'm Daniel, Fullstack developer from <b>Seoul, South Korea</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/800px-Flag_of_South_Korea.svg.png" width="16"/>, currently living in <b>Singapore</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/1200px-Flag_of_Singapore.svg.png" width="16"/>. </p>
 
-<h3>My Coding Tools</h3>
+<h3>Languages and Coding Tools</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -30,10 +30,10 @@
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
+<!--       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
+      <td><b>📬 Pull requests</b></td> -->
     </tr>
   </thead>
   
@@ -51,7 +51,7 @@
 </ul>
  -->
 
-<h3>Where to find me</h3>
+<h3>About Me</h3>
 <p>
   <a href="https://github.com/Daniel08110401" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/seungholee453" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
