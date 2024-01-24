@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- Heading -->
 <h1> Nice to meet you!</h1>
 
-<p></br> I'm Daniel, Fullstack developer from <b>Seoul, South Korea</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/800px-Flag_of_South_Korea.svg.png" width="16"/>, currently living in <b>Singapore</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/1200px-Flag_of_Singapore.svg.png" width="16"/>. </p>
+<p></br> Welcome! I'm Daniel, Fullstack developer from <b>Seoul, South Korea</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/800px-Flag_of_South_Korea.svg.png" width="16"/>, currently living in <b>Singapore</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/1200px-Flag_of_Singapore.svg.png" width="16"/>. </p>
 <h3>My Coding Tools</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
