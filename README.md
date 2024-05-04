@@ -1,7 +1,7 @@
 <!-- Heading -->
 <h1> Nice to meet you! :wave: </h1>
 
-<p></br> Welcome! I'm Daniel, Fullstack developer from <b>Seoul, South Korea</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/800px-Flag_of_South_Korea.svg.png" width="16"/>, currently living in <b>Singapore</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/1200px-Flag_of_Singapore.svg.png" width="16"/>. </p>
+<p></br> Welcome! I'm Seungho Lee, Fullstack developer from <b>Seoul, South Korea</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/800px-Flag_of_South_Korea.svg.png" width="16"/>, currently living in <b>Singapore</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/1200px-Flag_of_Singapore.svg.png" width="16"/>. </p>
 
 <h3>Languages and Coding Tools</h3>
 <p>
