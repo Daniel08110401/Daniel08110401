@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
 
@@ -44,6 +45,11 @@
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
 </p>
 
+<h3>Programming Tools</h3>
+<p>
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
+</p>
 <!-- My Projects-->
 
 
