@@ -24,9 +24,11 @@
 
 
 <h3>Programming Languages</h3>
-  <img alt="JavaScript" src="[https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)" />
+<p>
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
 
 <h3>Web Development</h3>
