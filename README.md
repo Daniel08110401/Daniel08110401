@@ -1,55 +1,58 @@
 <!-- Heading -->
-<h1> Nice to meet you! :wave: </h1>
+<h1>Nice to meet you! 👋</h1>
 
-<p></br> Welcome! I'm Seungho Lee, Fullstack developer from <b>Seoul, South Korea</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/800px-Flag_of_South_Korea.svg.png" width="16"/>, currently living in <b>Singapore</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/1200px-Flag_of_Singapore.svg.png" width="16"/>. </p>
+<p><br>Welcome! I'm <b>Seungho Lee</b>, a Data Engineer & Fullstack Developer from <b>Seoul, South Korea</b> 🇰🇷, currently living in <b>Singapore</b> 🇸🇬.</p>
 
-<h3>Programming Languages</h3>
+---
+
+<h3>📌 Recent Highlights</h3>
+
+- 🏢 **Data Migration at EY Consulting**: Led a solo project migrating 20+ datasets from archived AMC data to a new Phase 2 schema using AWS Glue & PySpark, achieving 100% schema compliance.
+- 🛍️ **E-commerce Platform @ FPT Software**: Built a full-stack product management system using PostgreSQL, React, and TypeScript with ERD and stored procedure design.
+- 🚗 **Real-time Object Detection**: Developed a hybrid detection pipeline combining YOLOv8 and Faster R-CNN for automotive parts recognition, optimized for real-time performance.
+
+---
+
+<h3>🧰 Tech Stack</h3>
+
+<h4>Languages</h4>
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
-
-<h3>Web Development</h3>
+<h4>Data Engineering</h4>
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="Numpy" src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="AWS Glue" src="https://img.shields.io/badge/AWS_Glue-F79520?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="AWS S3" src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="AWS Athena" src="https://img.shields.io/badge/AWS_Athena-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="AWS QuickSight" src="https://img.shields.io/badge/AWS_QuickSight-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Apache Spark" src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<!--   <img alt="Airflow" src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" /> -->
 </p>
 
-<h3>Data Engineering</h3>
+<h4>Web Development</h4>
 <p>
-  <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
 </p>
 
-<h3>Programming Tools</h3>
+<h4>Tools & DevOps</h4>
 <p>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
-<!-- My Projects-->
 
+---
 
+<h3>📫 Contact</h3>
 
-<!-- <ul>
-  <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
-  <li><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How to Create a Self-Updating README.md for Your GitHub Profile</b></a><br/><i>A good tutorial to do your first steps with GitHub Actions</i></li>
-    <li><a href="https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How You Should Structure Your React Applications</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
-  <li><a href="https://medium.com/better-programming/pro-tips-to-help-you-get-started-with-your-side-project-15d01b76e0d8"><b>Pro Tips to Help You Get Started With Your Side Project</b></a><br/><i>Begin with solid foundations to keep the excitement kicking in...</i></li>
-  <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>How to Take Care of Your Personal Branding as a Programmer</b></a><br/><i>It’s more than just refreshing your resume</i></li>
-  <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li>
-</ul>
- -->
-
-<h3>About Me</h3>
-<p>
-  <a href="https://www.linkedin.com/in/seungholee453" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<!--   <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> -->
-</p>
+<p>Let’s connect if you’re interested in data engineering, analytics, or AI-enabled systems!</p>
+<p><b>Email:</b> seungho.dev@gmail.com</p>
 
 
