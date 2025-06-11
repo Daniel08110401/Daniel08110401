@@ -1,7 +1,7 @@
 <!-- Heading -->
 <h1>Nice to meet you! 👋</h1>
 
-<p><br>Welcome! I'm <b>Seungho Lee</b>, a Data Engineer & Fullstack Developer from <b>Seoul, South Korea</b> 🇰🇷, currently living in <b>Singapore</b> 🇸🇬.</p>
+<p><br>Welcome! I'm <b>Seungho Lee</b>, a Data Engineer focused on designing robust ETL pipelines, optimizing large-scale data processing systems, and leveraging cloud-native tools to power data-driven decision making.</p>
 
 ---
 
