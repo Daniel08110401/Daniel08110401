@@ -53,6 +53,9 @@
 <h3>📫 Contact</h3>
 
 <p>Let’s connect if you’re interested in data engineering, analytics, or AI-enabled systems!</p>
-<p><b>Email:</b> seungho.dev@gmail.com</p>
+<p>
+  <a href="https://www.linkedin.com/in/seungholee453" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
+
 
 
