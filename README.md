@@ -7,7 +7,7 @@
 
 <h3>📌 Recent Highlights</h3>
 
-- 🏢 **Data Migration at EY Consulting**: Led a solo project migrating 20+ datasets from archived AMC data to a new Phase 2 schema using AWS Glue & PySpark, achieving 100% schema compliance.
+- 🏢 **Data Migration at EY Consulting**: Contributed in migrating 20+ datasets from archived AMC data to a new Phase 2 schema using AWS Glue & PySpark, achieving 100% schema compliance.
 - 🛍️ **E-commerce Platform @ FPT Software**: Built a full-stack product management system using PostgreSQL, React, and TypeScript with ERD and stored procedure design.
 - 🚗 **Real-time Object Detection**: Developed a hybrid detection pipeline combining YOLOv8 and Faster R-CNN for automotive parts recognition, optimized for real-time performance.
 
